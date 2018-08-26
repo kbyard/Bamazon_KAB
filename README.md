@@ -7,22 +7,22 @@ This app is an Amazon-like storefront created with MySQL and Node.js. The app ta
 ### Screenshots
 
 * MySQL Database:
-![](screenshots/01.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/01.png)
 
 * Display Items Available for Sale & First Prompt:
-![](screenshots/02.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/02.png)
 
 * Second Prompt & Total Cost:
-![](screenshots/03.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/03.png)
 
 * Updated Inventory:
-![](screenshots/04.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/04.png)
 
 * Insufficient Quantity:
-![](screenshots/05.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/05.png)
 
 * Continue Shopping or Exit:
-![](screenshots/06.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/06.png)
 
 * Exit:
-![](screenshots/07.png)
+![](https://github.com/kbyard/Bamazon_KAB/blob/master/Screenshots/07.png)
