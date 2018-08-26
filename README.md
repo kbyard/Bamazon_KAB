@@ -1,10 +1,10 @@
 # Bamazon_KAB
 Boot Camp UCDSAC20180507FSF Homework #12
 
-##Overview
+## Overview
 This app is an Amazon-like storefront created with MySQL and Node.js. The app takes in orders from customers and depletes stock from the store's inventory.
 
-###Screenshots
+### Screenshots
 
 * MySQL Database:
 ![](screenshots/01.png)
