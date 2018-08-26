@@ -6,23 +6,23 @@ This app is an Amazon-like storefront created with MySQL and Node.js. The app ta
 
 ###Screenshots
 
-MySQL Database:
+* MySQL Database:
 ![](screenshots/01.png)
 
-Display Items Available for Sale & First Prompt:
+* Display Items Available for Sale & First Prompt:
 ![](screenshots/02.png)
 
-Second Prompt & Total Cost:
+* Second Prompt & Total Cost:
 ![](screenshots/03.png)
 
-Updated Inventory:
+* Updated Inventory:
 ![](screenshots/04.png)
 
-Insufficient Quantity:
+* Insufficient Quantity:
 ![](screenshots/05.png)
 
-Continue Shopping or Exit:
+* Continue Shopping or Exit:
 ![](screenshots/06.png)
 
-Exit:
+* Exit:
 ![](screenshots/07.png)
